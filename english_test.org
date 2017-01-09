@@ -1,0 +1,383 @@
+* TODO 词汇
++ give in 
+  - 屈服，让步
++ yield to 
+  - 让步于，使自己受到。。。的支配
++ hardly ever 
+  - 几乎从不，很少
++ take to 
+  - 喜欢，习惯于，开始从事
++ take to sb 
+  - 喜欢，亲近
++ vomit 
+  - 呕吐
++ oppress 
+  - 使烦恼；压迫
++ persuade 
+  - 说服
++ prominent 
+  - 著名的，杰出的，突起的
++ desperate 
+  - 绝望的；急切的，极度渴望的
++ draw conclusion 
+  - 下结论
++ conceal 
+  - 隐藏，隐瞒
++ live up to 
+  - 履行，不辜负，达到高标准，实行
++ come up to 
+  - 达到，比得上
++ on various occasion 
+  - 在各种场合
++ dreadful 
+  - 可怕的，糟糕的
++ suspend 
+  - 暂停，延缓
++ sustain 
+  - 维持；供养；支撑，支持
++ discharged from hospital 
+  - 出院
++ pension 
+  - 退休金，养老金
++ persist 
+  - 坚持
++ resist 
+  - 抵抗
++ temptation 
+  - 诱惑
++ polite 
+  - 有礼貌
++ dispute 
+  - 争论，辩论
++ transform 
+  - 变换；改变；改观
++ radical 
+  - 激进的；彻底的；根本的
++ emerge 
+  - 出现；暴露；摆脱
++ come forth 
+  - 出现，涌现，被公布
++ stimulate 
+  - 刺激；激励，鼓舞；使兴奋
++ arouse 
+  - 引起；唤醒
++ gaze 
+  - 凝视，注视
++ overpopulated 
+  - 人口过多（密）的
++ gross 
+  - adj：总的；粗俗的；显而易见的；恶劣的
+  - n：总额
++ profit 
+  - 利益
++ spirited 
+  - 激烈的；精力充沛的
++ disturbance 
+  - 困扰；打扰
++ appreciable 
+  - 相当可观的；可察觉的；可预见的；可估计的
++ reliant 
+  - 依赖的；信赖的；依靠的
++ exotic 
+  - 异国的；外来的
++ cashier 
+  - 收银员；出纳员
++ account to
+  - 向（某人）报账
++ amount to 
+  - 总计；意味着
++ account for
+  - 说明（原因，理由）；导致，引起；（在数量，比例上）占
++ other than 
+  - 除了；不同于
++ run against
+  - 违背
++ drag out
+  - 把。。。拖（拉）出来；拖延
++ set aside
+  - 留出；不理会；取消
++ detain
+  - 耽搁；留住，阻住；拘留，扣留
++ retain 
+  - 保持；记住；雇用
++ monotonous 
+  - 单调的；枯燥无味的
++ diarrhea
+  - 腹泻
++ take on
+  - 雇用；录用；承担；呈现
++ take after
+  - 长得像，性格类似于，效仿
++ take in
+  - 吸收；领会；欺骗；接待
++ take up
+  - 占用；开始从事；接受（提议）
++ stand for
+  - 代表；拥护；为。。。而奋斗
++ cope with
+  - 应付
++ care for
+  - 照顾；喜欢；愿意
++ condense
+  - 压缩；精简
++ persuade
+  - 说服；劝说
++ think for oneself
+  - 独立思考，自行做出决定
++ would like
+  - 想要
++ arcane
+  - 神秘的；秘密的
++ encumber
+  - 阻碍
++ ignorant of
+  - 不懂，不知道；不知情
++ pant 
+  - 喘气
++ passive 
+  - 被动的；消极的
++ contempt 
+  - 轻蔑；轻视
++ moist
+  - 潮湿的；多雨的；含泪的
++ decline
+  - 衰落；谢绝
++ valueless
+  - 不足道的；无价值的
++ penniless
+  - 一文不名的；贫穷的
++ priceless
+  - 贵重的；无价的
++ reluctant
+  - 不情愿的，勉强的；顽抗的；难处理的；厌恶的
++ thrive
+  - 茁壮成长；兴盛
++ wither
+  - 凋谢；萎缩
++ demolish
+  - 推翻；摧毁
++ fleece
+  - 羊毛
++ wool
+  - 羊毛
++ curl
+  - 卷曲物
++ plumage
+  - 羽毛
++ scorn
+  - 轻蔑
++ endure
+  - 忍耐
++ put up with
+  - 忍受
++ distort
+  - 曲解；扭曲
++ discerning
+  - 有识别力的；有洞察力的
++ watchful
+  - 留心的；注意的
++ furnish
+  - 陈设，布置；提供，供应
++ testimony
+  - 证词；证明，证据
++ manifestation
+  - 表明，显示；示威
++ invaluable
+  - 非常宝贵的；无价的
++ worthless
+  - 不值钱的
++ resourcefulness
+  - 智谋
++ resolve
+  - 决心；决定
++ sociably
+  - 和蔼可亲的
++ overrate
+  - 对（质量，能力）估价过高
++ overestimate
+  - 对（数量）估计过高；对。。。做过高的评价
++ spasm
+  - 痉挛
++ bronchitis
+  - 支气管炎
++ feeble
+  - 虚弱的；无效的；缺乏决心的，缺乏活力的
++ tenacious
+  - 顽强的；坚决的
++ oblivious of
+  - 不在意
++ conducive to
+  - 有助于。。。的
++ susceptible to
+  - 易感的，敏感的
++ suspicious of
+  怀疑
++ interfer
+  - 干扰
++ idleness
+  - 懒惰；闲散
++ speculation
+  - 投机活动
++ capital
+  - 资本；首都；大写字母
++ render sb sth
+  - 给予sb sth
++ acquaint
+  - 使熟悉；使认识
++ entitle
+  - 使有资格
++ satisfied with
+  - 满意的
++ decent
+  - 正派的；得体的
++ respectable
+  - 可敬的；体面的；品行端正的
++ disposition
+  - 性格
++ plea
+  - 恳求，请求；借口，托辞；请愿
++ request
+  - 要求；需要；申请书
++ demand
+  - 需要；要求，请求
++ controversy
+  - 论战；公开辩论
++ fabricated
+  - 制造的；编造的
++ neglect
+  - 忽略；疏忽
++ advance 
+  - 将。。。提前
++ metropolitan
+  - 大城市的
++ on loan
+  - 暂借
++ premise
+  - 前提
++ upsurge
+  - 高潮；高涨
++ outburst
+  - 爆发；破裂
++ insurance claim
+  - 保险索赔
++ soak
+  - 浸泡，浸透
++ stain
+  - 血统，家族；性格，脾气；语气
++ turn up
+  - 出现
++ catch on
+  - 变得流行；理解；投合心意
++ look into
+  - 调查；观察
++ delegation
+  - 授权；委派；代表（团）
++ proficient
+  - 精通的，熟练的
++ nursery
+  - 幼儿园
++ impetus
+  - 动力；势头；促进；声势
++ imitation
+  - 仿制品；模仿
++ breakdown
+  - 分解；崩溃
++ outbreak
+  - （怒气，战争等）爆发；突然发生
++ allocate
+  - 分配；分派；把。。。拨给
++ subsidy
+  - 补贴；津贴
++ abolish
+  - 消灭；撤销；废除
++ prospect
+  - 前景；期望；景象
++ matter of fact
+  - 实际上，其实
++ defect 
+  - 瑕疵，毛病；欠缺，缺点
++ literal
+  - 照字面的；原意的
++ conform
+  - 符合；遵照
++ inhabitant
+  - 居民，住户
++ on account of
+  - 由于；基于
++ ends
+  - <正>结果
++ queer
+  - 古怪的；可疑的；不适的；同性恋的
++ proverb
+  - 谚语
++ documentary
+  - <n>纪录片；<adj>纪实的；记录的；文书的
++ vaguely
+  - 含糊地；茫然地
++ plight
+  - 境况，困境；誓约
++ assimilate
+  - 同化；吸收，消化
++ revitalize
+  - 使恢复元气；使复兴
++ eligible
+  - 合适的；在（法律或道德上）合格的，有资格当选的
++ reinforce
+  - 加强；强化
++ drop out 
+  - 退出，离开
++ drop off
+  - 减少；落下；送下车；不知不觉入睡
++ obligation
+  - 债务；义务，责任
++ shade
+  - 遮阳，遮棚；挡风物
++ conductor
+  - 导体
++ alternating/direct circuit
+  - 交/直流
++ premium
+  - 保险费；附加费
++ virtual
+  - 实际上的，事实上的；（计）虚拟的
++ talent for
+  - 有。。。的天赋
++ point up
+  - 强调；清楚表明
++ adulatory
+  - 奉承的
++ worthwhile
+  - 有价值的；值得做的；合算
++ worthy
+  - 配得上的；相称的
++ undertake
+  - 承诺；保证；承担
++ underdone
+  - 未充分做好的；未熟透的
++ underneath
+  - 下面的；较低的
++ tuition
+  - 学费；教学，讲授
++ thrifty
+  - 节俭的；节约的
++ miserly
+  - 小气的；吝啬的
++ conservative
+  - 保守的（人）
++ therapy
+  - 治疗
++ suppress
+  - 镇压，压制；阻止
++ at stake
+  - 危险
++ chronic
+  - 慢性的；长期的；习惯性的
++ retreat
+  - 撤退，后退
++ lodging
+  - 寄宿
++ victim
+  - 牺牲者
++ deterioration
+  - 恶化；退化；变坏；堕落
+    

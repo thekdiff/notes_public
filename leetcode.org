@@ -1,0 +1,203 @@
++ 广度优先遍历图
++ 八皇后问题
++ 排列组合问题
++ 两个整数的平均数：x&y+((x^ y)>>1)
++ 交换两个数a, b: a = a^ b; b = a^ b; a = a^ b（用加减法可能会overflow）
++ 找两个数最大的：((a+b)+abs(a-b))/2
++ 大数问题：加减乘除
+
+* Array
+** DONE 75. Sort Colors
+** DONE 169. Majority Element
+简单，但是不要大意
+** TODO 229. Majority Element II
+再仔细看一遍
+* Tree
+** DONE 96. Unique Binary Search Trees
+** DONE 98. Validate Binary Search Tree
+再做递归版的
+** DONE 103. Binary Tree Zigzag Level Order Traversal
+** DONE 107. Binary Tree Level Order Traversal II
+** DONE 113. Path Sum II
+简单
+** TODO 114. Flatten Binary Tree to Linked List
+ 1. Morris traversal ：空间复杂度常数，时间复杂度高
+ 2. stack：空间复杂度高，时间复杂度一次，做一遍
+** TODO 135. Candy
+再做一遍
+** DONE 145. Binary Tree Postorder Traversal
+** DONE 173. Binary Search Tree Iterator
+** DONE 208. Implement Trie (Prefix Tree)
+** TODO 211. Add and Search Word - Data structure design
+仔细再做一遍！！！！！！！！！！
+** TODO 230. Kth Smallest Element in a BST
+再做递归版本
+** TODO 236. Lowest Common Ancestor of a Binary Tree
+
+再做递归版
+** TODO 307. Range Sum Query - Mutable
+仔细做一遍再！！！！！！！！！！！！！！！
+** DONE 337. House Robber III
+深度优先搜索，递归
+
+* List
+** DONE 19. Remove Nth Node From End of List
+** DONE 21. Merge Two Sorted Lists
+注意指针指向
+** DONE 24. Swap Nodes in Pairs
+注意表头的处理
+** TODO 82. Remove Duplicates from Sorted List II
+难！！！多做几遍
+** TODO 105. Construct Binary Tree from Preorder and Inorder Traversal
+再做一遍
+** TODO 106. Construct Binary Tree from Inorder and Postorder Traversal
+再做一遍
+** DONE 108. Convert Sorted Array to Binary Search Tree
+** DONE 109. Convert Sorted List to Binary Search Tree
+slow fast指针，slow走一步，fast走两步。在看一遍（一次通过了）
+** TODO 141. Linked List Cycle
+再做一遍
+** DONE 142. Linked List Cycle II
+再做一遍
+** TODO 143. Reorder List
+再做一遍   
+** DONE 148. Sort List
+** DONE 160. Intersection of Two Linked Lists
+再做一遍   
+** DONE 234. Palindrome Linked List
+再做一遍熟悉一下套路
+** DONE 328. Odd Even Linked List
+
+* Math
+** TODO 8. String to Integer (atoi)
+再仔细做一遍
+** TODO 29. Divide Two Integers
+自己做出来的，再做一遍
+** TODO 60. Permutation Sequence
+再做一遍，O(n)时间
+** DONE 69. Sqrt(x)
+** TODO 50. Pow(x, n)
+再做一遍，考虑各种情况
+** DONE 168. Excel Sheet Column Title
+简单，但是再做一遍
+** DONE 171. Excel Sheet Column Number
+简单
+** DONE 172. Factorial Trailing Zeroes
+简单
+** DONE 202. Happy number
+Floyd遍历！！！slow，fast指针，再做一遍
+** DONE 204. Count Primes
+再做一遍。 *注意* ：不能用i*j < n作为条件，因为可能会溢出
+** TODO 223. Rectangle area
+再做一遍
+** TODO 233. Number of Digit One
+再看一遍
+** DONE 258. Add Digits
+digit root: r(n) = 1+(n-1)%9
+** DONE 264. Ugly Number II
+再仔细做一遍
+** TODO 279. Perfect Squares
+staticDP，BFS，数学上只有1,2,3,4四种可能，再做一遍
+** TODO 313. Super Ugly Number
+仔细考虑
+** DONE 319. Bulb Switcher
+看看就行
+** TODO 343. Integer Break
+发现规律，再做一遍（尽可能多的3）
+** DONE 357. Count Numbers with Unique Digits
+简单
+** TODO 365. Water and Jug Problem
+再看一遍
+** TODO 367. Valid Perfect Square
+简单，再做一遍
+** TODO 372. Super Pow
+再做一遍，比较简单
+** TODO 368. Largest Divisible Subset
+再仔细做一遍，理清思路不难
+* Backtracking
+** DONE 46. Permutations
+再做一遍
+** DONE 47. Permutations II
+** DONE 77. Combinations
+
+简单
+** TODO 130. Surrounded Regions
+再看一遍就行，一遍写成！！！！！！！屌！！！！！！！！
+* Dynamic Programming
+** DONE 152. Maximum Product Subarray
+** DONE 198. House Robber
+简单但是要注意，仔细一点
+** TODO 213. House Robber II
+再看一遍
+** TODO 303. Range Sum Query - Immutable
+再看一遍就行
+
+** DONE 337. House Robber III
+* Bit
+** DONE 136. Single Number
+简单
+** DONE 137. Single Number II
+** TODO 260. Single Number III
+再看一遍
+** DONE 292. Nim Game
+简单
+** TODO 371. Sum of Two Integers
+再看看
+* Stack
+** TODO 155. Min Stack
+
+注意细节
+** TODO 225. Implement Stack using Queues
+再仔细看看，注意长度的改变   
+** DONE 232. Implement Queue using Stacks
+简单   
+* Hash
+** TODO 15. 3Sum
+
+再做一遍！！！！！！！！！！！！
+** TODO 18. 4Sum
+再看一遍
+** TODO 76. Minimum Window Substring
+再仔细做一遍，阿里面试题！！！！！！！！
+** DONE 205. Isomorphic Strings
+
+简单，但是要注意两面都要比较
+** DONE 217. Contains Duplicate
+** DONE 219. Contains Duplicate II
+** DONE 274. H-Index
+** TODO 299. Bulls and Cows
+看看就行
+* Heap
+** TODO 215. Kth Largest Element in an Array
+再看看就行，好几种方法
+* String
+** DONE 43. Multiply Strings
+** TODO 151. Reverse words in a string
+再做一遍，重要！！！！！！！！   
+* Sort
+** DONE 56. Merge Intervals
+再看一遍，注意 ;
+
+** TODO 179. Largest Number
+仔细做一遍  
+** DONE 207. Course Schedule
+** TODO 210. Course Schedule II
+再看一遍
+
+* BFS
+** TODO 200. Number of Islands
+再看一遍
+* Binary search
+** TODO 33. Search in Rotated Sorted Array
+再仔细做一遍
+** TODO 81. Search in Rotated Sorted Array II
+** DONE 374. Guess Number Higher or Lower
+简单                                                                                        
+* Greedy
+** TODO 376. Wiggle subsequence
+再看一遍，我自己做出来的！！！！！！！！！屌！！！！！！！
+* Two pointer
+** DONE 3. Longest Substring Without Repeating Characters
+注意下标和值的区别
+** DONE 16. 3Sum Closest
+再看一遍！！！！！就行
