@@ -1,0 +1,2 @@
+#+TITLE: Something about Git
+#+AUTHOR: xuzhixin
