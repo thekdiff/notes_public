@@ -26,7 +26,7 @@ ak -> a0 when k -> inf, lim |ak+1 -a0|/|ak - a0|^p = a, if p > 1 or p ==
 1 and a == 0, then it's super-linear, if p == 1 and 0 < a < 1, then it's
 linear, if p == 2, it's second order.
 ** 强凸性
-存在一个m>0，使得函数的Hessian的二次型xT.H.x>=m.xT.x
+   存在一个m>0，使得函数的Hessian的二次型xT.H.x>=m.xT.x
 ** 无约束优化条件
 ** 近端梯度法
 ** 梯度投影法
@@ -34,3 +34,5 @@ linear, if p == 2, it's second order.
 ** 共轭梯度法
 + 优点：结合了梯度下降法和牛顿法，所需存储量小，收敛快，稳定性高，不需要
   任何外来参数
+
+fuck
