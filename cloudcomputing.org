@@ -1,0 +1,4 @@
+#+TITLE: Notes on cloud computing
+#+AUTHOR: xuzhixin
+
+* Basics
